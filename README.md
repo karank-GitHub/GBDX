@@ -1,5 +1,5 @@
-# GDBX
-GDBX Challenge
+# GBDX
+GBDX Challenge
 
 The available notebooks are large and they can not be displayed entirely in github. To view the full notebooks you should download them locally to your computer.
 
