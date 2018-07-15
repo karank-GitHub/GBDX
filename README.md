@@ -7,6 +7,8 @@ The available notebooks are large and they can not be displayed entirely in gith
 
 We demonstrate change detection results for areas in Egypt, Asia, Brazil and Africa.
 
+
+
 Files that need to be downloaded to run the .ipynb files:
 
 Trained Weights:                          https://drive.google.com/file/d/15JIuZQUvah2T1KElFMidLxMckhAIhHJ-/view   
