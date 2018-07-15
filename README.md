@@ -1,7 +1,7 @@
 # GDBX
 GDBX Challenge
 
-The available notebooks are large and they can not be displayed entirely in github. To view the full notebooks you should download it locally to your computer.
+The available notebooks are large and they can not be displayed entirely in github. To view the full notebooks you should download them locally to your computer.
 
 Files that need to be downloaded:
 
