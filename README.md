@@ -21,7 +21,7 @@ We demonstrate change detection results for areas in Egypt, Asia, Brazil and Afr
 
 
 
-Files that need to be downloaded to run the .ipynb files:
+Files that need to be downloaded to run the notebooks:
 
 Trained Weights:                          https://drive.google.com/file/d/15JIuZQUvah2T1KElFMidLxMckhAIhHJ-/view   
 
