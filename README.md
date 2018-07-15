@@ -3,7 +3,9 @@ GBDX Challenge
 
 The available notebooks are large and they can not be displayed entirely in github. To view the full notebooks you should download them locally to your computer.
 
-5 notebooks are provided, each one performing change detection for the respective region
+5 notebooks are provided, each one performing change detection for a different region. 
+
+We demonstrate change detection results for areas in Egypt, Asia, Brazil and Africa.
 
 Files that need to be downloaded to run the .ipynb files:
 
