@@ -1,7 +1,7 @@
 # GBDX
 GBDX Challenge
 
-The available notebooks are large and they can not be displayed entirely in github. To view the full notebooks you should download them locally to your computer.
+The available notebooks are large and they can not be displayed entirely through github. To view the full notebooks you should download them locally to your computer.
 
 In case the notebooks are not accessible through github, here are the links to the published GBDX Notebooks:
 
